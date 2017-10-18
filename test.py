@@ -19,9 +19,3 @@ while running:
         j = guess
 else:
     print('the while loop is over')
-    print('添加一行输出。')
-    print('添加一行输出。')
-    print('添加一行输出。')
-
-
-
